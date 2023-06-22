@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@testmonorepo/auth": ["libs/auth/src/index.ts"],
       "@testmonorepo/model": ["libs/model/src/index.ts"],
       "@testmonorepo/services": ["libs/services/src/index.ts"],
       "@testmonorepo/shared": ["libs/shared/src/index.ts"],
